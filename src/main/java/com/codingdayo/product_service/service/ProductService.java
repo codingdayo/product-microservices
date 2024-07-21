@@ -19,8 +19,7 @@ public class ProductService {
     private final ProductRepository productRepository;
 
     //public ProductService(ProductRepository productRepository) {
-    //    this.productRepository = productRepository;
-    //}
+    //    this.productRepository = productRepository;}
     // used this @RequiredArgsConstructor instead
 
 
